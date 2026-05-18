@@ -69,7 +69,7 @@
 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/ritik-raushan"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
+  <a href="https://linkedin.com/in/ritikraushan812-rgb"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
   <a href="mailto:ritikraushan812@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/></a>
 </p>---
 
